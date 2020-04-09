@@ -1,3 +1,10 @@
+---
+layout: post
+title: Python IDE 뭘 쓸까?
+categories: [python]
+tags: [python, IDE]
+---
+
 # Python IDE 뭘 쓸까?
 
 > Most Pipular Python IDE, Editors
