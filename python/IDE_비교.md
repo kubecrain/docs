@@ -2,9 +2,10 @@
 
 > Most Pipular Python IDE, Editors
 >
-> ![Most Pipular Python IDE, Editors](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1561996940/ide3_zy6tat.jpg)
-> ![Most Popular Python IDE/Editors by Employment](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcGxanw%2FbtqARi6ezpS%2F7M4rAVoDlTwMNXxb0t1HcK%2Fimg.jpg)
-> ![Most Popular Python IDE/Editors by Region](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FwxWpk%2FbtqAQNljtNn%2Fyn16am9wEzu0Ih68bKtvKk%2Fimg.jpg)
+> ||||
+> --|--|--
+> ![Most Pipular Python IDE, Editors](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1561996940/ide3_zy6tat.jpg)|![Most Popular Python IDE/Editors by Employment](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcGxanw%2FbtqARi6ezpS%2F7M4rAVoDlTwMNXxb0t1HcK%2Fimg.jpg)|![Most Popular Python IDE/Editors by Region](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FwxWpk%2FbtqAQNljtNn%2Fyn16am9wEzu0Ih68bKtvKk%2Fimg.jpg)
+
 
 ## Compare
 특이하게 Python IDE의 경우 Jupyter를 제외하면 점유율의 차이가 크지 않습니다.
