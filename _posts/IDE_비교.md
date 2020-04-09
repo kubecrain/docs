@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Python IDE 뭘 쓸까?
-categories: [python]
-tags: [python, IDE]
+title: "Python IDE 뭘 쓸까?"
+date: 2020-04-09
+category: python
+tags: [ python, IDE ]
 ---
 
 # Python IDE 뭘 쓸까?
