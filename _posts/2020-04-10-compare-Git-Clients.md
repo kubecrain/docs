@@ -10,25 +10,25 @@ tags:
 ---
 
 ## SourceTree
-![SourceTree]({{ site.baseurl }}/assets/images/sourcetree.png)
+![SourceTree]({{ site.baseurl }}/assets/images/2020-04-10/sourcetree.png)
 - Home Page: https://www.sourcetreeapp.com/
 - 지원 OS: Windows, MacOS
 - License: Proprietary(Free)
 
 ## GitKraken
-![GitKraken]({{ site.baseurl }}/assets/images/gitkraken.png)
+![GitKraken]({{ site.baseurl }}/assets/images/2020-04-10/gitkraken.png)
 - Home Page: https://www.gitkraken.com/
 - 지원 OS: Windows, MacOS, Linux
 - License: Proprietary
 
 ## Git Extensions
-![Git Extension]({{ site.baseurl }}/assets/images/gitextension.png)
+![Git Extension]({{ site.baseurl }}/assets/images/2020-04-10/gitextension.png)
 - Home Page: https://gitextensions.github.io/
 - 지원 OS: Windows, MacOS, Linux
 - License: GNU, GPL
 
 ## Fork
-![Fork]({{ site.baseurl }}/assets/images/fork.png)
+![Fork]({{ site.baseurl }}/assets/images/2020-04-10/fork.png)
 - Home Page: https://git-fork.com/
 - 지원 OS: Windows, MacOS
 - License: Proprietary(Free)

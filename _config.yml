@@ -3,7 +3,7 @@ name: "Kubecrain"
 title: "Kubecrain"
 description: "K8S Study group"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: /docs
 google_analytics: ''
 disqus: ''
