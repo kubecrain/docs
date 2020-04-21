@@ -9,8 +9,6 @@ tags:
     - Client
 ---
 
-# DB GUI Client 비교
-
 ## Data Grip
 ![Data Grip](./datagrip.png)
 - Home Page: https://www.jetbrains.com/ko-kr/datagrip/

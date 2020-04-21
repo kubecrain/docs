@@ -9,28 +9,26 @@ tags:
     - Client
 ---
 
-# Git Client 비교
-
 ## SourceTree
-![SourceTree](./sourcetree.png)
+![SourceTree]({{ site.baseurl }}/assets/images/sourcetree.png)
 - Home Page: https://www.sourcetreeapp.com/
 - 지원 OS: Windows, MacOS
 - License: Proprietary(Free)
 
 ## GitKraken
-![GitKraken](./gitkraken.png)
+![GitKraken]({{ site.baseurl }}/assets/images/gitkraken.png)
 - Home Page: https://www.gitkraken.com/
 - 지원 OS: Windows, MacOS, Linux
 - License: Proprietary
 
 ## Git Extensions
-![Git Extension](./gitextension.png)
+![Git Extension]({{ site.baseurl }}/assets/images/gitextension.png)
 - Home Page: https://gitextensions.github.io/
 - 지원 OS: Windows, MacOS, Linux
 - License: GNU, GPL
 
 ## Fork
-![Fork](./fork.png)
+![Fork]({{ site.baseurl }}/assets/images/fork.png)
 - Home Page: https://git-fork.com/
 - 지원 OS: Windows, MacOS
 - License: Proprietary(Free)

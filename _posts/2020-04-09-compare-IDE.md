@@ -9,8 +9,6 @@ tags:
     - IDE
 ---
 
-# Python IDE 뭘 쓸까?
-
 > Most Pipular Python IDE, Editors
 >
 > ![Most Pipular Python IDE, Editors](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1561996940/ide3_zy6tat.jpg)
